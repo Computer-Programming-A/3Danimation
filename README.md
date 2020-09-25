@@ -9,11 +9,11 @@ Suggested steps for starting this assignment:
 1. Start a new [P5 program](https://editor.p5js.org/)
 2. In `function setup()` you will need to call the 3 argument version of `createCanvas()`, e.g.`createCanvas(300, 300, WEBGL);` since we will be using the 3d functions.
 3. In `function draw()` you could use the following functions in this order:
-  * `background()`
-  * `translate()` moves the coordinates where the box will be drawn
-  * `rotateX()` rotates the box around the X axis
-  * `rotateY()` rotates the box around the Y axis
-  * `box()` draws the rotated and translated box
+   * `background()`
+   * `translate()` moves the coordinates where the box will be drawn
+   * `rotateX()` rotates the box around the X axis
+   * `rotateY()` rotates the box around the Y axis
+   * `box()` draws the rotated and translated box
 4. Experiment with different arguments to get a feel for how they effect the box.
 5. You'll need someway to animate the cube. It could rotate on its own, or you could add something like `mouseDragged()` or `keyPressed()` with `mouseX` and `mouseY` used to change the amount of rotation. Whatever method you choose, since the amount of rotation will be changing, you'll will probably need variable or two to store the amount of rotation in the x and y directions.
 
