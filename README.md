@@ -1,3 +1,3 @@
-![](RotatingCube.gif)
+![](RotatingCube.gif)   
 3D Animation
 ============
