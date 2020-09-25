@@ -22,7 +22,7 @@ Optional Extensions
 * You may want to use `pointLight()` to make a 3 dimensional lighting effect. Moving the position of the `pointlight()` can create interesting effects.
 * You can change the perspective with `camera()`
 * Bind rotation to mouse or keys.
-* Create a 3D shape that is not built in (not a torus, cube, sphere/ellipsoid, cone, plane, cylinder.) For example, pyramid, composite 3D shape like a house (pyramid on a cube or an ice cream cone, that is a sphere on a cone)
+* Create a 3D shape that is not built in (not a torus, cube, sphere/ellipsoid, cone, plane, cylinder.) For example, you could create a composite 3D shape like a house (pyramid on a cube) or an ice cream cone (sphere on a cone)
 These are only suggestions, feel free to modify this program as you wish. Have fun and be creative!
 
 Samples of Student Work
