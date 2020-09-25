@@ -2,7 +2,7 @@
 3D Animation
 ============
 In addition to the 2 dimensional graphics functions you've used, P5 also has a set of 3 dimensional graphics functions. In this assignment you will create an animation using
-one or more of those functions. The people who wrote P5 have put together a great [3D tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5#introducing-webgl-in-p5js). You may also find slides 244 - 282 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.
+one or more of these functions. The people who wrote P5 have put together a great [3D tutorial](https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5#introducing-webgl-in-p5js). You may also find slides 244 - 282 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.
 
 Suggested steps for starting this assignment:
 -----------------------------------------------
