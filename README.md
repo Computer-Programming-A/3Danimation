@@ -7,7 +7,7 @@ one or more of these functions. The people who wrote P5 have put together a grea
 Suggested steps for starting this assignment:
 -----------------------------------------------
 1. Start a new [P5 program](https://editor.p5js.org/)
-2. In `function setup()` you will need to call the 3 argument version of `createCanvas()`, e.g.`createCanvas(300, 300, WEBGL);` since we will be using the 3d functions.
+2. In `function setup()` you will need to call the 3 argument version of `createCanvas()`, e.g.`createCanvas(400, 400, WEBGL);` since we will be using the 3d functions.
 3. In `function draw()` you could use the following functions in this order:
    * `background()`
    * `translate()` moves the coordinates where the box will be drawn
