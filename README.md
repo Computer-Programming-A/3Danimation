@@ -15,7 +15,7 @@ Suggested steps for starting this assignment:
    * `rotateY()` rotates the box around the Y axis
    * `box()` draws the rotated and translated box
 4. Experiment with different arguments to get a feel for how they effect the box.
-5. You'll need someway to animate the cube. It could rotate on its own, or you could add something like `mouseDragged()` or `keyPressed()` with `mouseX` and `mouseY` used to change the amount of rotation. Whatever method you choose, since the amount of rotation will be changing, you'll will probably need variable or two to store the amount of rotation in the x and y directions.
+5. You'll need someway to animate the cube. It could rotate on its own, or you could add something like `mouseDragged()` or `keyPressed()` with `mouseX` and `mouseY` used to change the amount of rotation. Whatever method you choose, since the amount of rotation will be changing, you'll will probably need a variable or two to store the amount of rotation in the x and y directions.
 
 Optional Extensions
 ---------------------
