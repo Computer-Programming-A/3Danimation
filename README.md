@@ -27,4 +27,5 @@ These are only suggestions, feel free to modify this program as you wish. Have f
 
 Samples of Student Work
 -----------------------
-None yet!
+[Marissa](https://editor.p5js.org/maholmes/present/OYBUOMrK_)   
+[Daniil](https://editor.p5js.org/dakardava/present/nsAdyCn2L)   
