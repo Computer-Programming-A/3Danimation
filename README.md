@@ -23,7 +23,8 @@ Optional Extensions
 * You can change the perspective with `camera()`
 * Bind rotation to mouse or keys.
 * Create a 3D shape that is not built in (not a torus, cube, sphere/ellipsoid, cone, plane, cylinder.) For example, you could create a composite 3D shape like a house (pyramid on a cube) or an ice cream cone (sphere on a cone)
-* For the really adverterous, you could design an object in CAD software (e.g. [Tikercad](https://www.tinkercad.com/dashboard)) export it as an `obj` file and upload it to your P5 program.   
+* For the really adverterous, you could design an object in CAD software (e.g. [Tikercad](https://www.tinkercad.com/dashboard)) export it as an `obj` file and upload it to your P5 program.      
+
 These are only suggestions, your 3d animation doesn't have to look like any other. Have fun and be creative!
 
 Samples of Student Work
