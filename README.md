@@ -56,7 +56,7 @@ Samples of Student Work
 [John](https://editor.p5js.org/jocarlin/present/XHrIoGBuN)   
 [Cameron](https://editor.p5js.org/canguyen1/present/G-c7lcfmo)   
 [Ashton](https://editor.p5js.org/ashan-voltaic/present/Ec_xAz18n)   
-[Ken](https://editor.p5js.org/Keshfer/sketches/cDVpNNh8N)   
+[Ken](https://editor.p5js.org/Keshfer/present/cDVpNNh8N)   
 [Kami](https://editor.p5js.org/kawang7/present/f5CRO1ztD)   
 [Audrey](https://editor.p5js.org/AudreyLau8/present/1taN_fApD)    
 [Dat](https://editor.p5js.org/tuduong1/present/Kjxo3fdzs)   
