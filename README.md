@@ -51,7 +51,7 @@ Samples of Student Work
 [Victor](https://editor.p5js.org/visibrian/present/WXoVP6FaD)   
 [Sally](https://editor.p5js.org/sahong3/present/1xJ1EyfXJ)   
 [Jennie](https://editor.p5js.org/jilin20/present/n7Ub6DVhN)   
-[Benjamin](https://editor.p5js.org/benhan/full/V5thSi3Jr)   
+[Benjamin](https://editor.p5js.org/benhan/present/V5thSi3Jr)   
 [Paolo](https://editor.p5js.org/paolo415/present/p6jSK39vd)   
 [John](https://editor.p5js.org/jocarlin/present/XHrIoGBuN)   
 [Cameron](https://editor.p5js.org/canguyen1/present/G-c7lcfmo)   
