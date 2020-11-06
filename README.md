@@ -29,6 +29,7 @@ These are only suggestions, your 3d animation doesn't have to look like any othe
 
 Samples of Student Work
 -----------------------
+[Adam](https://editor.p5js.org/adamgooch/present/zf4zHWTWn)   
 [Michelle](https://editor.p5js.org/michelle0/present/T08hkL7dX)   
 [Kenneth](https://editor.p5js.org/kelee20/present/wEvG9kQUv)   
 [Tiffany](https://editor.p5js.org/titse/present/YrvDU8XcL)   
