@@ -47,7 +47,7 @@ Samples of Student Work
 [Kaitlyn](https://preview.p5js.org/kaluu/present/r1Ck7dcZB)   
 [Rio](https://preview.p5js.org/rihaile/present/hscI5mWUF)   
 [Hao](https://preview.p5js.org/hatang/present/dT6nSRsTb)    
-[Linen](https://preview.p5js.org/lifeng/present/gm06bp0fO)
+[Linen](https://preview.p5js.org/lifeng/present/gm06bp0fO)   
 [Joanne](https://editor.p5js.org/joguan59/present/JYn05XRko)   
 [Adam](https://editor.p5js.org/adamgooch/present/zf4zHWTWn)   
 [Michelle](https://editor.p5js.org/michelle0/present/T08hkL7dX)   
