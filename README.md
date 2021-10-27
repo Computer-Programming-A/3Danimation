@@ -39,6 +39,7 @@ Samples of Student Work
 [Douglas](https://preview.p5js.org/dolwin/present/mN9aH_AB1)   
 [Ngoc](https://preview.p5js.org/ngtran/present/FVOw0keqa)    
 [Tania](https://preview.p5js.org/tacastanonperez/present/lVecPI9TD)   
+[Michelle](https://preview.p5js.org/milam4/present/5CQkFtvXh)   
 [Aice](https://preview.p5js.org/alliang/present/93eFus-6v9)   
 [Vivian](https://preview.p5js.org/viliu2/present/AaF8NHQ-U)   
 [Susana](https://preview.p5js.org/susannango/present/pb90XUmtc)   
